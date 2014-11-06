@@ -1,6 +1,6 @@
 # grunt-replace-filename
 
-> The best Grunt plugin ever.
+> a repalce grunt plugin.
 
 ## Getting Started
 This plugin requires Grunt `~0.4.5`
