@@ -1,6 +1,6 @@
 {
   "name": "grunt-replace-filename",
-  "description": "a repalce grunt plugin.",
+  "description": "a replace grunt plugin.",
   "version": "0.1.2",
   "homepage": "https://github.com/h1bomb/grunt-replace-filename",
   "author": {
@@ -36,7 +36,7 @@
     "grunt": "~0.4.5"
   },
   "keywords": [
-    "grunt replace filename"
+    "grunt", "replace", "filename"
   ],
   "readmeFilename": "README.md",
   "gitHead": "bfe25d84b53846b2552f38b2b114ff9fc7d20990",
